@@ -4,7 +4,7 @@ zyuzin2024/zyuzin2024 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-Does holoview behave after deep zoom in as expected (CFTC does not like it) or it is a bug?
+Does holoview behave after deep zoom in as expected or it is a bug?
  
 See below, back to back difference between hover values is changing unexpectedly: 100, 300, 200, 400, 200, 200, 300, 300, so on.
  
